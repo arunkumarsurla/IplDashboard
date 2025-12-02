@@ -31,7 +31,7 @@ const Home = () => {
             className="ipl-logo"
             alt="ipl logo"
           />
-          <h1 className="ipl-dashboard-heading">IPL Dashboard</h1>
+          <h1 className="ipl-dashboard-heading">2020 IPL Dashboard</h1>
         </div>
 
         {isLoading ? (
